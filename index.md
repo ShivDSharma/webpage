@@ -1,27 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to My Home Page
 
-You can use the [editor on GitHub](https://github.com/ShivDSharma/webpage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Shiv Dutt Sharma. I am a faculty of computer science and Engineering at IIIT Una. Before joining IIIT Una, I was a postdoctoral student at CHennai Mathematical Institute.
+### Education
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+B.Tech - NIT Hamirpur
+Ph.D.  - IIT Gandhinagar
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
